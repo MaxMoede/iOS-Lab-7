@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1021493679639-5tihhq8jqug0v6t4v997akkmotf4p5d3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1021493679639-5tihhq8jqug0v6t4v997akkmotf4p5d3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXcUu1D013eZYOXw--opfnZGY_Ithciic</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1021493679639</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.max.moede.lab7</string>
+	<key>PROJECT_ID</key>
+	<string>lab7-4a4b3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lab7-4a4b3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1021493679639:ios:c1429b3413f13580</string>
+	<key>DATABASE_URL</key>
+	<string>https://lab7-4a4b3.firebaseio.com</string>
+</dict>
+</plist>
